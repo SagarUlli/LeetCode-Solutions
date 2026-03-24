@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |

@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Binary Search
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -356,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -475,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0133-clone-graph) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SagarUlli/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
